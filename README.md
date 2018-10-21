@@ -1,3 +1,3 @@
-# explore-repo
+# Explore repository
 ## Second title
 ### Third title
